@@ -1,0 +1,16 @@
+.topWrapper {
+  background: #5d3fd3;
+  color: #fff;
+  padding: 25px 15px;
+  border-bottom: 5px solid #4527a0;
+}
+
+.pageHeading {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+.subHeading {
+  margin: 5px 0 0;
+  font-weight: 400;
+}
